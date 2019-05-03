@@ -10,7 +10,7 @@
   ],
   "version": "0.1.0",
 	"private": true,
-	"homepage": "https://nir99.github.io/zy-cy",
+	"homepage": "https://nir099.github.io/zy-cy",
 	"dependencies": {
 		"gh-pages": "^2.0.1",
 		"react": "^16.8.3",
