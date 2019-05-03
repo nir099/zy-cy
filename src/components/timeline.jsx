@@ -55,7 +55,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2><a href="#">Primary Education</a> <span>2001-205</span></h2>
-                        <p>You know , kids lol . But i manged to pass grade 5 scholorship as 9th in district :) got schol to Ananda Collage , lucky enough .. </p> 
+                        <p>You know , kids lol . But i manged to pass grade 5 scholorship as 9th in district :) got scholorship to Ananda Collage , lucky enough .. </p> 
                       </div>
                     </div>
                   </article>
