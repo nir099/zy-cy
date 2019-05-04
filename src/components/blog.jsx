@@ -11,7 +11,7 @@
 // 					<span className="heading-meta">Read</span>
 // 					<h2 className="colorlib-heading">Recent Blog</h2>
 // 					</div>
-// 				</div>
+// 				 </div> 
 // 				<div className="row">
 // 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 // 					<div className="blog-entry">
