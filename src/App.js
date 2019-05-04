@@ -5,7 +5,6 @@ import Introduction from './components/introduction'
 import About from './components/about'
 import Timeline from './components/timeline'
 import Skills from './components/skills'
-import Educaton from './components/education'
 
 class App extends Component {
   render() {
