@@ -31,7 +31,7 @@ export default class Sidebar extends Component {
               <ul>
                 <li><a style= {{color: "Dodgerblue"}} href="https://www.facebook.com/nirmal.aththanayaka" target=" "><i className="fab fa-facebook-square fa-lg"></i></a></li>
                 <li><a style= {{color: "green"}} href="https://www.instagram.com/99nir99/" target=" "><i className="fab fa-instagram fa-lg"></i></a></li>
-                <li><a style= {{color: "rgba(68, 19, 255, 0.7)"}} href="https://www.linkedin.com/in/nirmal-aththanayaka-93b13911a/" target=" "><i className="fab fa-linkedin fa-lg"></i></a></li>
+                <li><a style= {{color: "rgba(68, 19, 255, 0.7)"}} href="https://www.linkedin.com/in/nir099/" target=" "><i className="fab fa-linkedin fa-lg"></i></a></li>
                 <li><a href="https://github.com/nir099" target=" "><i className="fab fa-github fa-lg"></i></a></li>
               </ul>
             </nav>

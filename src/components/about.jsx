@@ -38,7 +38,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites using JavaScript,React,Angular 4+ ,HTML,CSS and of course NodeJs and i know MongoDb lets say enough .</p>
+                    <p>I have experience building websites using JavaScript,React,Angular 8+ ,HTML,CSS. More in my skill set .</p>
                 </div>
                 </div>
             </div>
@@ -49,7 +49,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
-                    <p>As learning from the CS background, I have good grasp over fundamental concepts of DSA , we have a module in Uni haha XD</p>
+                    <p>As learning from the CS background, I have good grasp over fundamental concepts of DSA</p>
                 </div>
                 </div>
             </div>
@@ -60,7 +60,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Dev Ops</h3>
-                    <p>I have done projects with Jenkins, Docker and Travis , wanna know more .</p>
+                    <p>I'm skilled with Jenkins, Docker and Travis/Circle CI.</p>
                 </div>
                 </div>
             </div>
