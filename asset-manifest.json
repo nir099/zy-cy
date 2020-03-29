@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nirmal-Aththanayaka/static/css/main.83bd8ac9.chunk.css",
-    "main.js": "/Nirmal-Aththanayaka/static/js/main.fa0b725b.chunk.js",
-    "main.js.map": "/Nirmal-Aththanayaka/static/js/main.fa0b725b.chunk.js.map",
-    "runtime~main.js": "/Nirmal-Aththanayaka/static/js/runtime~main.672245b0.js",
-    "runtime~main.js.map": "/Nirmal-Aththanayaka/static/js/runtime~main.672245b0.js.map",
-    "static/js/2.d8c91e0c.chunk.js": "/Nirmal-Aththanayaka/static/js/2.d8c91e0c.chunk.js",
-    "static/js/2.d8c91e0c.chunk.js.map": "/Nirmal-Aththanayaka/static/js/2.d8c91e0c.chunk.js.map",
-    "index.html": "/Nirmal-Aththanayaka/index.html",
-    "precache-manifest.7b841517c61611f38cfb6c96c205145d.js": "/Nirmal-Aththanayaka/precache-manifest.7b841517c61611f38cfb6c96c205145d.js",
-    "service-worker.js": "/Nirmal-Aththanayaka/service-worker.js",
-    "static/css/main.83bd8ac9.chunk.css.map": "/Nirmal-Aththanayaka/static/css/main.83bd8ac9.chunk.css.map"
+    "main.css": "/zy-cy/static/css/main.83bd8ac9.chunk.css",
+    "main.js": "/zy-cy/static/js/main.d2eab96c.chunk.js",
+    "main.js.map": "/zy-cy/static/js/main.d2eab96c.chunk.js.map",
+    "runtime~main.js": "/zy-cy/static/js/runtime~main.c1bf237b.js",
+    "runtime~main.js.map": "/zy-cy/static/js/runtime~main.c1bf237b.js.map",
+    "static/js/2.d8c91e0c.chunk.js": "/zy-cy/static/js/2.d8c91e0c.chunk.js",
+    "static/js/2.d8c91e0c.chunk.js.map": "/zy-cy/static/js/2.d8c91e0c.chunk.js.map",
+    "index.html": "/zy-cy/index.html",
+    "precache-manifest.cd309ebd6d0091579c0075249e133bb9.js": "/zy-cy/precache-manifest.cd309ebd6d0091579c0075249e133bb9.js",
+    "service-worker.js": "/zy-cy/service-worker.js",
+    "static/css/main.83bd8ac9.chunk.css.map": "/zy-cy/static/css/main.83bd8ac9.chunk.css.map"
   }
 }
